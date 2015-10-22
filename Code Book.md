@@ -17,6 +17,7 @@ The mean values is calculated foreach subject and grouped into activities - fore
 
 
 ### Physical measurments
+All rows in the dataset is prefixes with the unit type. (t=time, f=force)
 * "BodyAccelaration-meanX"                       
 * "BodyAccelaration-meanY"                        
 * "BodyAccelaration-meanZ"                        
