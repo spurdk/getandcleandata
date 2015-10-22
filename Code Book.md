@@ -1,1 +1,28 @@
 ## Analysis Code Book
+
+
+
+###
+"Subject"                                       "Activity"                                      "BodyAccelaration-meanX"                       
+"BodyAccelaration-meanY"                        "BodyAccelaration-meanZ"                        "GravityAccelaration-meanX"                    
+"GravityAccelaration-meanY"                     "GravityAccelaration-meanZ"                     "BodyAccelarationJerk-meanX"                   
+"BodyAccelarationJerk-meanY"                    "BodyAccelarationJerk-meanZ"                    "BodyGyro-meanX"                               
+"BodyGyro-meanY"                                "BodyGyro-meanZ"                                "BodyGyroJerk-meanX"                           
+"BodyGyroJerk-meanY"                            "BodyGyroJerk-meanZ"                            "BodyAccelarationMag-mean"                     
+"GravityAccelarationMag-mean"                   "BodyAccelarationJerkMag-mean"                  "BodyGyroMag-mean"                             
+"BodyGyroJerkMag-mean"                          "BodyAccelaration-meanX"                        "BodyAccelaration-meanY"                       
+"BodyAccelaration-meanZ"                        "BodyAccelarationJerk-meanX"                    "BodyAccelarationJerk-meanY"                   
+"BodyAccelarationJerk-meanZ"                    "BodyGyro-meanX"                                "BodyGyro-meanY"                               
+"BodyGyro-meanZ"                                "BodyAccelarationMag-mean"                      "BodyBodyAccelarationJerkMag-mean"             
+"BodyBodyGyroMag-mean"                          "BodyBodyGyroJerkMag-mean"                      "BodyAccelaration-StandardDeviationX"          
+"BodyAccelaration-StandardDeviationY"           "BodyAccelaration-StandardDeviationZ"           "GravityAccelaration-StandardDeviationX"       
+"GravityAccelaration-StandardDeviationY"        "GravityAccelaration-StandardDeviationZ"        "BodyAccelarationJerk-StandardDeviationX"      
+"BodyAccelarationJerk-StandardDeviationY"       "BodyAccelarationJerk-StandardDeviationZ"       "BodyGyro-StandardDeviationX"                  
+"BodyGyro-StandardDeviationY"                   "BodyGyro-StandardDeviationZ"                   "BodyGyroJerk-StandardDeviationX"              
+"BodyGyroJerk-StandardDeviationY"               "BodyGyroJerk-StandardDeviationZ"               "BodyAccelarationMag-StandardDeviation"        
+"GravityAccelarationMag-StandardDeviation"      "BodyAccelarationJerkMag-StandardDeviation"     "BodyGyroMag-StandardDeviation"                
+"BodyGyroJerkMag-StandardDeviation"             "BodyAccelaration-StandardDeviationX"           "BodyAccelaration-StandardDeviationY"          
+"BodyAccelaration-StandardDeviationZ"           "BodyAccelarationJerk-StandardDeviationX"       "BodyAccelarationJerk-StandardDeviationY"      
+"BodyAccelarationJerk-StandardDeviationZ"       "BodyGyro-StandardDeviationX"                   "BodyGyro-StandardDeviationY"                  
+"BodyGyro-StandardDeviationZ"                   "BodyAccelarationMag-StandardDeviation"         "BodyBodyAccelarationJerkMag-StandardDeviation"
+"BodyBodyGyroMag-StandardDeviation"             "BodyBodyGyroJerkMag-StandardDeviation" 
